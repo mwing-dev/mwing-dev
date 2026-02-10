@@ -1,21 +1,21 @@
-
 ## About Me
-I'm passionate about **web development**, **Blazor projects**, and building **robust backend solutions** that scale.  
-Currently, I'm expanding my skills in **hybrid applications with Blazor** and learning to integrate **third-party APIs** seamlessly into modern apps.  
+
+I work primarily with **hardware and infrastructure**, and I write **software** when it makes systems easier to manage, automate, or explain to future-me.
+Most of my development work lives in the **.NET ecosystem**, with a focus on **Blazor** and backend tooling that exists to reduce repetition and remove manual steps.
 
 ## Interests
-- Blazor Server and WebAssembly (WASM)
-- .NET and C# ecosystem
-- Building APIs and backend infrastructure
-- Hybrid apps that connect web + native functionality
-- Experimenting with Raspberry Pi Pico and GPIO control
+
+* Hardware-first systems and infrastructure
+* Blazor Server, and hybrid apps
+* PowerShell and .NET for automation, depending on how permanent the problem is
+* APIs and backend services that support real systems
+* Small hardware projects that benefit from just enough code
 
 ## Collaboration
-I'm looking to collaborate on:
-- Open-source **Blazor projects**
-- Anything involving **C#** and **.NET**
-- Tools that improve developer workflows and application scalability
 
-## Fun Fact
-I love experimenting with tech gadgets.  
-Right now, I’m exploring **GPIO control on a Raspberry Pi Pico** for automation and hardware integration projects.  
+I’m interested in collaborating on:
+
+* Open-source **Blazor** or **.NET** projects
+* Internal tools and automation platforms
+* Anything that bridges **hardware, infrastructure, and software**
+* Projects that make repetitive tasks disappear
